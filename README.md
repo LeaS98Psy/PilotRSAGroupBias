@@ -1,4 +1,4 @@
-# RSA Memory Project
+# Pilot RSA Group Bias and Memory
 
 ## Purpose
 
